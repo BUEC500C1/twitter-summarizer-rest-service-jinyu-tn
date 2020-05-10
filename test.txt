@@ -1,0 +1,16 @@
+Thread 1 is processing on brad's task
+Thread 2 is processing on suli's task
+Thread 1 finished brad's task
+Thread 3 is processing on mulla's task
+Thread 2 finished suli's task
+Thread 1 is processing on pig's task
+Thread 3 finished mulla's task
+Thread 2 is processing on cat's task
+Thread 1 finished pig's task
+Thread 3 is processing on dog's task
+Thread 2 finished cat's task
+Thread 3 finished dog's task
+The task of thread 2 is None, relax for a moment
+The task of thread 3 is None, relax for a moment
+The task of thread 1 is None, relax for a moment
+All the tasks finished
