@@ -13,10 +13,10 @@ import json
 
 
 #Twitter API credentials
-consumer_key = "v5tO8Jzm3VWoM0aai7qtslpWJ"
-consumer_secret = "E8IMwRH5b6Wudp7KIrOp6zXqeiqd5bBPIBKS198QEhrclK3lEW"
-access_key = "1230245048085663744-IopRbCuXvGLJvluQ96AQqhctqE9Ere"
-access_secret = "EzK5SmkjSzi7KspnUQZthpTGHInWsEjcpNAGZeOZIswry"
+consumer_key = ""
+consumer_secret = ""
+access_key = ""
+access_secret = ""
 
 def get_all_tweets(username,keyword):
     #1st:build a folder to store the images 
